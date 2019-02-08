@@ -1,11 +1,8 @@
 # Clustering-Grocery_store
 
 **Goal**
-Look at user purchase history and create categories of items that are likely
-to be bought together and, therefore, should belong to the same section(basically cluster the items).
 
-Description
-Company XYZ is an online grocery store which has a lot of data about user purchase history. Therefore, they would like to put the data into use!
+Company XYZ is an online grocery store which has a lot of data about user purchase history. Therefore, they would like to put the data into use! Look at user purchase history and create categories of items that are likely to be bought together and, therefore, should belong to the same section(basically cluster the items).
 
 
 **Challenges:**
